@@ -1,4 +1,6 @@
-# electron-quick-start-typescript
+# electron-quick-start-typescript-nodemon
+
+## This is the clone of the official electron-quick-start boilerplate, with added dev script
 
 **Clone and run for a quick way to see Electron in action.**
 
